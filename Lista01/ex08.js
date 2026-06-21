@@ -4,7 +4,7 @@
      if ((linha + coluna) texto = % 2 == 0);{
        texto = texto + "#";
      } else {
-       texto = texto + "";
+       texto = texto + " ";
      }
    }
    console.log(texto);
